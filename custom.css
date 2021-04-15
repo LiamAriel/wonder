@@ -1,4 +1,4 @@
-  .container::after,
+.container::after,
 .container::before,
 .row::after,
 .row::before {
